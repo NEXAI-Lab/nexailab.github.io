@@ -1,0 +1,81 @@
+[
+  {
+    "title": "GA-SPARF: Genetic algorithm-tuned random forest for sleep position monitoring using accelerometer",
+    "authors": ["Hoang-Dieu Vu", "Duc-Nghia Tran", "Quang-Tu Pham", "Duc-Tan Tran"],
+    "venue": "Sleep and Breathing", "year": 2026, "doi": "10.1007/s11325-026-03584-4",
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Smart Healthcare & Biomedical AI", "Time-Series & Wearable Intelligence"],
+    "type": null,
+    "topics": ["Smart Healthcare", "Wearable Sensors", "Machine Learning", "Sleep"]
+  },
+  {
+    "title": "Road Surface Classification Using IMU Data Based on the CGB-Net Deep Learning Architecture",
+    "authors": ["Duong Do The", "Duc-Nghia Tran", "Hoang-Dieu Vu", "Manh-Tuyen Vi", "Duc-Tan Tran"],
+    "venue": "Computers, Materials & Continua", "year": 2026, "doi": null,
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Time-Series & Wearable Intelligence"],
+    "type": null,
+    "topics": ["Deep Learning", "Time-Series", "IMU", "Sensor Intelligence"]
+  },
+  {
+    "title": "Human sleep position classification using a lightweight model and acceleration data",
+    "authors": ["Hoang-Dieu Vu", "Duc-Nghia Tran", "Huy-Hieu Pham", "Dinh-Dat Pham", "Khanh-Ly Can", "To-Hieu Dao", "Duc-Tan Tran"],
+    "venue": "Sleep and Breathing", "year": 2025, "doi": "10.1007/s11325-025-03247-w",
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Smart Healthcare & Biomedical AI", "Time-Series & Wearable Intelligence"],
+    "type": null,
+    "topics": ["Smart Healthcare", "Sleep AI", "Wearable Sensors", "Machine Learning"]
+  },
+  {
+    "title": "Drug classification system based on drug composition and usage instructions",
+    "authors": ["Hoang-Dieu Vu", "Vu-Hien Pham", "Quang-Dung Le"],
+    "venue": "EAI Endorsed Transactions on Industrial Networks and Intelligent Systems", "year": 2024, "doi": "10.4108/eetinis.v12i1.5995",
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Smart Healthcare & Biomedical AI"],
+    "type": "Journal",
+    "topics": ["NLP", "Text Classification", "Healthcare AI"]
+  },
+  {
+    "title": "Vehicle Type Classification with Small Dataset and Transfer Learning Techniques",
+    "authors": ["Quang-Tu Pham", "Dinh-Dat Pham", "Khanh-Ly Can", "Hieu Dao To", "Hoang-Dieu Vu"],
+    "venue": "EAI Endorsed Transactions on Industrial Networks and Intelligent Systems", "year": 2024, "doi": "10.4108/eetinis.v11i2.4678",
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Computer Vision & 3D Vision"],
+    "type": "Journal",
+    "topics": ["Computer Vision", "Deep Learning", "Transfer Learning", "Knowledge Distillation"]
+  },
+  {
+    "title": "Predicting Stride Length from Acceleration Signals Using Lightweight Machine Learning Algorithms",
+    "authors": null, "venue": null, "year": 2024, "doi": null,
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Time-Series & Wearable Intelligence"],
+    "type": null,
+    "topics": ["Wearable Sensors", "Machine Learning", "Time-Series", "Human Motion"]
+  },
+  {
+    "title": "Monitor Respiration Rate and Sleep Position Using Multi-task Learning",
+    "authors": ["Hoang-Dieu Vu", "Dinh-Hieu Le", "Khanh-Ly Can", "Hieu Dao-To", "Dinh-Dat Pham", "Sy-Hiep Nguyen", "et al."],
+    "venue": null, "year": 2023, "doi": null,
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Smart Healthcare & Biomedical AI", "Time-Series & Wearable Intelligence"],
+    "type": null,
+    "topics": ["Deep Learning", "Multi-task Learning", "Sleep", "Respiration", "Wearable Sensors"]
+  },
+  {
+    "title": "Predicting Respiration Rate Using Acceleration Sensors and LSTM: A Novel Approach",
+    "authors": ["Hoang-Dieu Vu", "Duc-Nghia Tran", "Khanh-Ly Can", "To-Hieu Dao", "Dinh-Dat Pham", "Dinh-Hieu Le", "Quang-Tu Pham", "Duc-Tan Tran"],
+    "venue": "International Conference on Control, Automation and Information Sciences", "year": 2023, "doi": "10.1109/ICCAIS59597.2023.10382329",
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Smart Healthcare & Biomedical AI", "Time-Series & Wearable Intelligence"],
+    "type": "Conference",
+    "topics": ["LSTM", "Time-Series", "Wearable Sensors", "Smart Healthcare"]
+  },
+  {
+    "title": "Developing Real-time Automatic Step Detection On A Low-Cost, Performance-Constrained Microcontroller",
+    "authors": null, "venue": null, "year": 2023, "doi": null,
+    "paper": null, "code": null, "project": null,
+    "researchAreas": ["Time-Series & Wearable Intelligence"],
+    "type": null,
+    "topics": ["TinyML", "Wearable Computing", "Human Activity Recognition", "Edge AI"]
+  }
+]

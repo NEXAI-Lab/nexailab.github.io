@@ -1,0 +1,11 @@
+[
+  {"title": "LLM for Software Engineering", "description": "Research on applying large language models to code understanding, code generation, testing, software maintenance and software engineering workflows."},
+  {"title": "Reasoning LLM", "description": "Research on reasoning, inference, planning and reliable decision-making in large language models."},
+  {"title": "Vision-Language Models", "description": "Research on multimodal models combining vision and natural language."},
+  {"title": "Vision-Language-Action Models", "description": "Research on AI systems connecting perception, language understanding and actions."},
+  {"title": "Video Object Segmentation", "description": "Deep learning approaches for detecting, segmenting and tracking objects across video sequences."},
+  {"title": "3D Reconstruction", "description": "Learning-based approaches for recovering 3D structures from images and videos."},
+  {"title": "Semantic Segmentation", "description": "Pixel-level visual understanding using modern deep neural networks."},
+  {"title": "Smart Healthcare", "description": "Machine learning and deep learning systems for healthcare and biomedical applications."},
+  {"title": "Wearable Sensor Intelligence", "description": "Deep learning and machine learning for time-series signals collected from wearable and physiological sensors."}
+]

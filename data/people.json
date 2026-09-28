@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Prof. Duc Thanh Nguyen",
+    "affiliation": "Deakin University",
+    "role": null,
+    "interests": ["Video Object Segmentation", "3D Reconstruction", "Semantic Segmentation", "Computer Vision"],
+    "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4vExyv8AAAAJ&citpid=1",
+    "links": {"website": null, "googleScholar": "https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en", "orcid": null, "linkedin": null, "github": null}
+  },
+  {
+    "name": "Dr. Kien Do",
+    "affiliation": "Vin Smart Future",
+    "role": null,
+    "interests": ["Reasoning for Large Language Models", "Vision-Language Models", "Vision-Language-Action Models", "Multimodal AI"],
+    "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=aD6y8joAAAAJ&citpid=1",
+    "links": {"website": null, "googleScholar": "https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en", "orcid": null, "linkedin": null, "github": null}
+  },
+  {
+    "name": "Prof. Huy Hieu Pham",
+    "affiliation": "VinUniversity",
+    "role": null,
+    "interests": ["Smart Healthcare", "Deep Learning for Healthcare", "Medical AI", "Green Conservation", "Applied Artificial Intelligence"],
+    "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=mXcFcNkAAAAJ&citpid=1",
+    "links": {"website": null, "googleScholar": "https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en", "orcid": null, "linkedin": null, "github": null}
+  },
+  {
+    "name": "Prof. Le Cong Thanh",
+    "affiliation": "Singapore University of Technology and Design",
+    "role": null,
+    "interests": ["Large Language Models for Software Engineering", "AI for Software Engineering", "Software Security", "Intelligent Software Systems"],
+    "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=iaQgZHYAAAAJ&citpid=1",
+    "links": {"website": null, "googleScholar": "https://scholar.google.com/citations?user=iaQgZHYAAAAJ&hl=en", "orcid": null, "linkedin": null, "github": null}
+  },
+  {
+    "name": "Dr. Tran Cong Minh",
+    "affiliation": "University of Oxford",
+    "role": null,
+    "interests": ["Smart Healthcare", "Deep Learning for EEG", "COPD", "Alzheimer's Disease", "Biomedical AI", "Medical Machine Learning"],
+    "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wANNZugAAAAJ&citpid=1",
+    "links": {"website": null, "googleScholar": "https://scholar.google.com/citations?user=wANNZugAAAAJ&hl=en", "orcid": null, "linkedin": null, "github": null}
+  },
+  {
+    "name": "MSc. Hoang-Dieu Vu",
+    "affiliation": "Phenikaa University",
+    "role": "Head of NEXAI Lab",
+    "responsibilities": ["Research project coordination", "Student supervision", "Coordination of collaborations between research projects"],
+    "interests": ["Deep Learning", "Computer Vision", "3D Vision", "Large Language Models", "Applied Artificial Intelligence", "Wearable AI", "Time-Series Learning"],
+    "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t48gZZ4AAAAJ&citpid=1",
+    "links": {"website": null, "googleScholar": "https://scholar.google.com/citations?user=t48gZZ4AAAAJ&hl=en", "orcid": null, "linkedin": null, "github": null}
+  }
+]
